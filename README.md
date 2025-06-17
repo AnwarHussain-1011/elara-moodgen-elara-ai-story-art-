@@ -19,6 +19,13 @@ Elara is a multimodal generative AI system that combines the power of large lang
 > Still, it marched on—hope flickering in its synthetic heart.*
 
 > 🖼️ **Image:** (Generated using Stable Diffusion)
+> 
+<p align="center">
+  <img src=""(https://drive.google.com/file/d/1D50vFXxg_BhWkrZ1o2qGaNES_TwHthnU/view?usp=drive_link)" alt="Generated Image of Robot in Abandoned City" width="500"/>
+</p>
+
+*Prompt:* "A robot exploring an abandoned city"  
+*Mood:* Sci-Fi 
 
 ---
 
