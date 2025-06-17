@@ -142,4 +142,14 @@ Generative AI Research | Softech computing Lab, NTOU
 This project is licensed under the MIT License.
 
 
+Output:
+Prompt: A dragon teaching quantum physics in a futuristic classroom.
+
+Generated Image:
+![image](https://github.com/user-attachments/assets/71ff6e0c-627c-4b6d-83db-7823ab405e6e)
+![image](https://github.com/user-attachments/assets/0d0a07d9-8a3d-4206-adc5-12fb79a7ac83)
+Generated text:
+In the heart of Nova Haven, a magnificent dragon named Lyra stood before a holographic blackboard, her scales shimmering with iridescent hues. With a flick of her claw, she conjured a swirling vortex, illustrating the principles of superposition. Her students, a diverse group of aliens and humans, gazed in awe as Lyra effortlessly juggled particles and waves, demystifying the mysteries of quantum entanglement. As the lesson concluded, Lyra bestowed upon her pupils a knowing glance, and the classroom resonated with the whispered secrets of the cosmos.
+
+
 
